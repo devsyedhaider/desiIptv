@@ -84,7 +84,7 @@ const Contact = () => {
           
           <form 
             id="contact-form"
-            action="https://formsubmit.co/devalihaider86@gmail.com" 
+            action="https://formsubmit.co/zahidarslan256.com" 
             method="POST" 
             className={`${CSS.form} glass reveal-right`}
             onSubmit={handleSubmit}
