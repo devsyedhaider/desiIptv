@@ -54,7 +54,7 @@ const Contact = () => {
 
     try {
       // 1. Submit to FormSubmit via AJAX
-      const response = await fetch("https://formsubmit.co/ajax/ranaabdullah5678910.com", {
+      const response = await fetch("https://formsubmit.co/ajax/skyiptvdistributors@gmail.com", {
         method: "POST",
         headers: { 
             'Content-Type': 'application/json',
@@ -77,7 +77,7 @@ const Contact = () => {
           `Reference Name: ${formData.referanceName}`;
         
         // Using the number found in WhatsAppWidget.jsx
-        const whatsappUrl = `https://wa.me/923014476718?text=${whatsappMsg}`;
+        const whatsappUrl = `https://wa.me/13222332447?text=${whatsappMsg}`;
         
         // 3. Open WhatsApp in new tab
         window.open(whatsappUrl, '_blank');
@@ -110,13 +110,13 @@ const Contact = () => {
               Have questions or need support? Our team is here to help you get the most out of SkyIPTV.
             </p>
             <div className={CSS.contactItem}>
-              <span>📧</span> <a href="mailto:devalihaider86@gmail.com">devalihaider86@gmail.com</a>
+              <span>📧</span> <a href="mailto:skyiptvdistributors@gmail.com">skyiptvdistributors@gmail.com</a>
             </div>
             <div className={CSS.contactItem}>
-              <span>📞</span> <a href="tel:+13479196292">+1 (347) 919-6292</a>
+              <span>📞</span> <a href="tel:+13222332447">+1 (322) 233-2447</a>
             </div>
             <div className={CSS.contactItem}>
-              <span>📍</span> 32-45 69th St, USA
+              <span>📍</span> New York, USA
             </div>
           </div>
           
