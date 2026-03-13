@@ -54,7 +54,7 @@ const Contact = () => {
 
     try {
       // 1. Submit to FormSubmit via AJAX
-      const response = await fetch("https://formsubmit.co/ajax/@gmail.com", {
+      const response = await fetch("https://formsubmit.co/ajax/skyiptvdistributors@gmail.com", {
         method: "POST",
         headers: { 
             'Content-Type': 'application/json',
